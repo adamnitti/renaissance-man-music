@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Renaissance Man Music Website Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I put this project together for my frontend honors graduate assignment at Nucamp. It is a website that showcases many of the services and music projects that I had been a part of prior to my becoming a web developer. As a long-time musician and composer, I wanted to build something that married my prior music experience with my web development experience gained at Nucamp. 
 
 ## Available Scripts
 
